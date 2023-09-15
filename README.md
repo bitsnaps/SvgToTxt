@@ -1,7 +1,11 @@
-# Running dev server
+# SvgToTxt
+
+A small tool to extract text from svg file, you can try it online at [Deta](https://svgtotxt-1-q1071863.deta.app/).
+
+## Running dev server
 To develop - run `make dev` to get a development server with a reloader
 
-# Running prod server
+## Running prod server
 Press the run button, or `make prod`
 
 ## Run on dev mode
